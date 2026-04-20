@@ -14,7 +14,7 @@ import (
 	"github.com/segmentio/kafka-go"
 )
 
-const topicName = "bismillah-topic"
+const topicName = "bismillah-topic" //created with kafka UI (http://localhost:8080), not auto-created by the producer
 
 func main() {
 	ctx, cancel := context.WithCancel(context.Background())
