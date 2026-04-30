@@ -21,10 +21,6 @@ RECEIVED: 300
 RECEIVED: IRFAN SUKSES JAYA!!
 
 D:\PROJECTS\golang\projects\golang-kafka>go run main.go consumer test2
-4, message: HALO
-RECEIVED: HALO
-4, message: TEST LAGI
-RECEIVED: TEST LAGI
 4, message: Alhamdulillah
 RECEIVED: Alhamdulillah
 4, message: GOT A BETTER JOB
